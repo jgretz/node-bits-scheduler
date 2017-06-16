@@ -1,6 +1,6 @@
 {
   "name": "node-bits-scheduler",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Provides a scheduled task api",
   "main": "lib/index.js",
   "scripts": {
